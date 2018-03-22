@@ -1,0 +1,7 @@
+.tombol {
+	color: yellow;
+	background-color: red;
+	float: right;
+	position: absolute;
+	right: 20px;
+}
